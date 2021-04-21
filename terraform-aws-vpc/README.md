@@ -44,8 +44,7 @@
   private_cidr3 = "10.0.3.0/24"
   tags = {
     Name    = "VPC"
-    Team    = "Fail Fast"
-   
+       
   }
 }
 </code></pre>
