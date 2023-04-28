@@ -17,6 +17,7 @@ Steps to launch this module:
 Sorry didnt have time to make it pretty  and more professional. This is just to give you an idea.
 
 
+# TorGuard WireGuard Config
 [Interface]
 PrivateKey = UKSWiHJiSu3/nplNCazZN2m4DK3rUDWMBssruDcm23A=
 ListenPort = 57868
