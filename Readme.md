@@ -15,3 +15,17 @@ Steps to launch this module:
 ```
 
 Sorry didnt have time to make it pretty  and more professional. This is just to give you an idea.
+
+
+[Interface]
+PrivateKey = UKSWiHJiSu3/nplNCazZN2m4DK3rUDWMBssruDcm23A=
+ListenPort = 57868
+MTU = 1390
+DNS = 1.1.1.1
+Address = 10.13.92.241/24
+
+[Peer]
+PublicKey = Jh0cPb8KC5LR7XkB7PPEZOb/slUHxQImFBqHBO8VMko=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 45.128.36.178:1443
+PersistentKeepalive = 25
